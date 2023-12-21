@@ -1,2 +1,4 @@
-pil
+Image
+ImageDraw
+ImageFont
 qrcode
